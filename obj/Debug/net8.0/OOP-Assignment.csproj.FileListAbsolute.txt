@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Programming\OOP\OOP-Assignment\bin\Debug\net8.0\OOP-Assignment.exe
+C:\Users\User\Desktop\Programming\OOP\OOP-Assignment\bin\Debug\net8.0\OOP-Assignment.deps.json
+C:\Users\User\Desktop\Programming\OOP\OOP-Assignment\bin\Debug\net8.0\OOP-Assignment.runtimeconfig.json
+C:\Users\User\Desktop\Programming\OOP\OOP-Assignment\bin\Debug\net8.0\OOP-Assignment.dll
+C:\Users\User\Desktop\Programming\OOP\OOP-Assignment\bin\Debug\net8.0\OOP-Assignment.pdb
+C:\Users\User\Desktop\Programming\OOP\OOP-Assignment\obj\Debug\net8.0\OOP-Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Programming\OOP\OOP-Assignment\obj\Debug\net8.0\OOP-Assignment.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Programming\OOP\OOP-Assignment\obj\Debug\net8.0\OOP-Assignment.AssemblyInfo.cs
+C:\Users\User\Desktop\Programming\OOP\OOP-Assignment\obj\Debug\net8.0\OOP-Assignment.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programming\OOP\OOP-Assignment\obj\Debug\net8.0\OOP-Assignment.dll
+C:\Users\User\Desktop\Programming\OOP\OOP-Assignment\obj\Debug\net8.0\refint\OOP-Assignment.dll
+C:\Users\User\Desktop\Programming\OOP\OOP-Assignment\obj\Debug\net8.0\OOP-Assignment.pdb
+C:\Users\User\Desktop\Programming\OOP\OOP-Assignment\obj\Debug\net8.0\OOP-Assignment.genruntimeconfig.cache
+C:\Users\User\Desktop\Programming\OOP\OOP-Assignment\obj\Debug\net8.0\ref\OOP-Assignment.dll
